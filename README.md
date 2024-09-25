@@ -1,10 +1,18 @@
-- Hi, I’m @patrynk
-- I’m interested in microbiome and microbial engineering, molecular dynamics, genomics and transcriptomics, and playing with machine learning.
-- I’m currently learning systems biology, microbiome bioinformatics, and everything I can about cool data I find on NCBI etc.
-- I’m looking to collaborate on any of the above
-- You can reach me on LinkedIn @ https://www.linkedin.com/in/patrick-rynkiewicz-98386b130
-- Pronouns: He/Him
-- Fun fact: I'm an avid beer homebrewer
+- Hi, I’m **Pat Rynkiewicz**, I use code to learn about biology.
+- My favorite organism is _Saccharomyces cerevisiae_, followed closely by _Rhodotus palmatus_
+- My goal is to share data analyses that inspire me and software that works.
+- Find me on Twitter [@NGSorcerer](https://x.com/ngsorcerer) or LinkedIn [Here](https://www.linkedin.com/in/patrick-rynkiewicz-98386b130)
+- I'm currently exploring:
+  - Microbial Engineering
+  - Metabolic Engineering
+  - Living Medicines
+  - Systems Biology
+  - Machine Learning for Microbiology
+  - Microbiomes
+  - Biomanufacturing
+  - Protein Engineering
+  - Synthetic Biology
+  - Genomics, Transcriptomics, Proteomics
 
 <!---
 patrynk/patrynk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
